@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "diff": "5.0.0",
+    "diff-match-patch": "1.0.5",
     "parcel-bundler": "^1.6.1"
   },
   "devDependencies": {
